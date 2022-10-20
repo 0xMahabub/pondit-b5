@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# unnecessary
+.cache
+.vscode
+.exe
+*.log
