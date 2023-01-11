@@ -1,16 +1,14 @@
-# Download deb file first
+# Install Git and Setup Github [Linux]
 
-[Download Deb or others](https://github.com/GitCredentialManager/git-credential-manager/releases/tag/v2.0.785)
+```yaml
+steps:
+  1. Install Git `sudo apt install git`
+  2. Install SSH & check `ssh`
+  3. Follow Github setups ...
+```
 
-# Follow this then =>
+# Setup Your Github
 
-[First Step](https://github.com/GitCredentialManager/git-credential-manager/blob/main/README.md)
+[Link :=> Setup Github with SSH](https://www.freecodecamp.org/news/git-ssh-how-to/)
 
-# Finally ==>
-
-[Final Step](https://github.com/GitCredentialManager/git-credential-manager/blob/main/docs/credstores.md)
-
-[ONLY FOR LINUX/UBUNTU users]
-
-#OK?
-
+[Link :=> Setup Multiple Github Accounts with SSH](https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/)
